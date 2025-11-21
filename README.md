@@ -72,18 +72,30 @@ Amacımız:
 
 ## 🛠️ Teknolojiler
 
-**Frontend:**  
-React · Next.js · Vue · TailwindCSS · TypeScript  
+### **Frontend**
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/></a> React  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/></a> Next.js  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="28"/></a> Vue  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28"/></a> TailwindCSS  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/></a> TypeScript  
 
-**Backend:**  
-Node.js · Express · Python · PHP  
+### **Backend**
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="28"/></a> Node.js  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="28"/></a> Express  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/></a> Python  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28"/></a> PHP  
 
-**Database:**  
-MongoDB · PostgreSQL · MySQL  
+### **Database**
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28"/></a> MongoDB  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/></a> PostgreSQL  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/></a> MySQL  
 
-**DevOps / Tools:**  
-Docker · PM2 · Nginx · CI/CD  
-Figma · Photoshop · After Effects  
+### **DevOps / Tools**
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28"/></a> Docker  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="28"/></a> Nginx  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/></a> Git  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="28"/></a> Figma  
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="28"/></a> Photoshop  
 
 ---
 
