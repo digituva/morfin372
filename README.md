@@ -1,31 +1,122 @@
-### Hi there, I'm - [Morfin][website] 👋
+# 🟣 DIGITUVA  
+### Modern Software · Automation · Digital Media
 
-[![Website](https://img.shields.io/website?label=sosyprism.com&style=for-the-badge&url=https://sosyprism.com)](https://sosyprism.com)
+Digituva, modern işletmeler için ölçeklenebilir yazılım çözümleri, otomasyon sistemleri, sosyal medya yönetimi ve dijital pazarlama hizmetleri sunan bir teknoloji şirketidir.  
+Odak noktamız; hız, güvenilirlik, modern tasarım ve veri odaklı büyüme.
 
+---
 
+## 🔗 Badges
 
-### Connect with me:
+![Status](https://img.shields.io/badge/Status-Active-7B3AED?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Mobile-111?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Optimized-4C1?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Tech-Modern_Stack-0052CC?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Private-AA00FF?style=for-the-badge)
 
-[<img align="left" alt="sosyprism.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="extbully | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-<br />
+## 📌 İçerik
 
-### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] 
+- [Hakkında](#-hakkında)
+- [Hizmetler](#-hizmetler)
+- [Teknolojiler](#-teknolojiler)
+- [Öne Çıkan Özellikler](#-öne-çıkan-özellikler)
+- [Proje Alanları](#-proje-alanları)
+- [İletişim](#-iletişim)
 
-<br />
-<br />
+---
 
+## 🧩 Hakkında
 
-![Morfin's GitHub stats](https://github-readme-stats.vercel.app/api?username=morfin372&show_icons=true&theme=dark)
+Digituva, yüksek standartlı yazılım üretimi, modern kullanıcı arayüzleri, akıllı otomasyonlar ve veri analitiği alanlarında hizmet veren bir dijital üretim stüdyosudur.
 
-[website]: https://sosyprism.com
-[instagram]: https://instagram.com/extbully
+Amacımız:
+- Ölçeklenebilir yazılımlar geliştirmek  
+- Modern UI/UX ile premium arayüzler üretmek  
+- Otomasyonla iş gücünü azaltmak  
+- Dijital pazarlama performansını artırmak  
+- Markalara dijital bir ekosistem kurmak  
+
+---
+
+## 🚀 Hizmetler
+
+### 🖥️ Web & Yazılım Geliştirme
+- Kurumsal web yazılımları  
+- Dashboard & admin panelleri  
+- Mobil arayüz tasarımları (UI/UX)  
+- Backend & API geliştirme  
+- Özel yazılım projeleri
+
+### 🤖 Otomasyon Sistemleri
+- WhatsApp müşteri botları  
+- Google Maps scraping sistemleri  
+- CRM entegrasyonları  
+- Lead otomasyonu  
+- AI destekli cevaplama sistemleri
+
+### 📊 Dijital Pazarlama
+- Meta & Google Ads yönetimi  
+- CTR / CPC / ROAS optimizasyonları  
+- Performans raporlama  
+- Kampanya kurguları  
+
+### 🎨 Tasarım & Kreatif Üretim
+- UI/UX design kit  
+- Sosyal medya kreatifleri  
+- Video / Reels içerikleri  
+- Marka kimliği tasarımı  
+
+---
+
+## 🛠️ Teknolojiler
+
+**Frontend:**  
+React · Next.js · Vue · TailwindCSS · TypeScript  
+
+**Backend:**  
+Node.js · Express · Python · PHP  
+
+**Database:**  
+MongoDB · PostgreSQL · MySQL  
+
+**DevOps / Tools:**  
+Docker · PM2 · Nginx · CI/CD  
+Figma · Photoshop · After Effects  
+
+---
+
+## 🏆 Öne Çıkan Özellikler
+
+| Özellik | Açıklama |
+|--------|----------|
+| ⚡ Hızlı Teslim | Optimize yazılım üretim süreci |
+| 🎨 Modern Tasarım | Premium UI/UX, component bazlı yapı |
+| 📈 Veri Odaklı | KPI + dashboard + analitik takip |
+| 🤝 Şirket Odaklı Çalışma | Uzun vadeli partnerlik modeli |
+| 🧩 Tam Özelleştirme | Hazır şablon yok, tamamen özel üretim |
+
+---
+
+## 📂 Proje Alanları
+- Kurumsal web siteleri  
+- Dashboard & analitik sistemleri  
+- Otomasyon botları  
+- AI destekli çözümler  
+- Mobil UI konseptleri  
+- Sosyal medya içerik sistemleri  
+
+---
+
+## 📬 İletişim
+
+📧 info@digituva.com  
+📱 WhatsApp Business: https://wa.me/905518891953
+
+---
+
+## ⭐ Destek
+
+Bu repoyu beğendiysen ⭐ ekleyebilirsin.  
+Her ⭐ Digituva’nın daha fazla kişiye ulaşmasını sağlar.
